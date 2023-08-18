@@ -7,6 +7,9 @@ import time
 # Streamlit app title
 st.title("BFS Visualization on an Undirected Graph")
 
+# Add credit line
+st.markdown("### Created by Gaurav Ojha (VisFac, Applied AI) based on https://www.youtube.com/watch?v=PMMc4VsIacU")
+
 # Define the visualize_graph function
 def visualize_graph(graph, pos, visited, current_node=None, parent=None, highlight_node=None, queue=None):
     plt.figure(figsize=(10, 6))
