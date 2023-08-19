@@ -137,11 +137,11 @@ This process continues until the queue becomes empty, indicating that all reacha
 ```python
 graph = {
     '5': ['3', '7'],
-    '3': ['2', '4'],
-    '7': ['8'],
-    '2': [],
-    '4': ['8'],
-    '8': []
+    '3': ['5', '2', '4'],
+    '7': ['5', '8'],
+    '2': ['3'],
+    '4': ['3', '8'],
+    '8': ['7', '4']
 }
 
 visited = []
