@@ -5,13 +5,13 @@ import json
 import time
 
 # Streamlit app title
-st.title("BFS Visualization on an Undirected Graph")
+st.title("BFS Visualization on an Undirected Graph: Traveling Salesman Problem")
 
 # Add credit line
 st.markdown("### Developed as Applied AI project by")
-st.amarkdown("### 1. Gaurav Ojha (D015)")
-st.amarkdown("### 1. Gaurav Patil (D017)")
-st.amarkdown("### 1. Praveenkumar Loharkar (D027)")
+st.markdown("### 1. Gaurav Ojha (D015)")
+st.markdown("### 1. Gaurav Patil (D017)")
+st.markdown("### 1. Praveenkumar Loharkar (D027)")
              
 
 # Define the visualize_graph function
