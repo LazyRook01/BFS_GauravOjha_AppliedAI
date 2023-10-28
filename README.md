@@ -1,7 +1,5 @@
 ---
 title: Applied AI (BFS)
-updated: 2023-08-18 05:34:16Z
-created: 2023-08-18 03:41:21Z
 author: Gaurav Ojha
 ---
 Implementation can be found at: https://bfs-in-detail.streamlit.app/
