@@ -8,7 +8,11 @@ import time
 st.title("BFS Visualization on an Undirected Graph")
 
 # Add credit line
-st.markdown("### Created by Gaurav Ojha (VisFac, Applied AI) based on https://www.youtube.com/watch?v=PMMc4VsIacU")
+st.markdown("### Developed as Applied AI project by")
+st.amarkdown("### 1. Gaurav Ojha (D015)")
+st.amarkdown("### 1. Gaurav Patil (D017)")
+st.amarkdown("### 1. Praveenkumar Loharkar (D027)")
+             
 
 # Define the visualize_graph function
 def visualize_graph(graph, pos, visited, current_node=None, parent=None, highlight_node=None, queue=None):
