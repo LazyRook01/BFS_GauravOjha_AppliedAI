@@ -5,7 +5,7 @@ import json
 import time
 
 # Streamlit app title
-st.title("BFS Visualization on an Undirected Graph: Traveling Salesman Problem")
+st.title("BFS Visualization on an Undirected Graph: The Travelling Salesman Problem")
 
 # Add credit line
 st.markdown("### Developed as Applied AI project by")
