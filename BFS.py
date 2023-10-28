@@ -10,8 +10,8 @@ st.title("BFS Visualization on an Undirected Graph: Traveling Salesman Problem")
 # Add credit line
 st.markdown("### Developed as Applied AI project by")
 st.markdown("### 1. Gaurav Ojha (D015)")
-st.markdown("### 1. Gaurav Patil (D017)")
-st.markdown("### 1. Praveenkumar Loharkar (D027)")
+st.markdown("### 2. Gaurav Patil (D017)")
+st.markdown("### 3. Praveenkumar Loharkar (D027)")
              
 
 # Define the visualize_graph function
