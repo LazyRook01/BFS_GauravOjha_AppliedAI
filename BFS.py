@@ -8,7 +8,8 @@ import time
 st.title("BFS Visualization on an Undirected Graph: The Travelling Salesman Problem")
 
 # Add credit line
-st.markdown("### Developed as Applied AI project by")
+st.markdown("# Developed as project for the subject Artificial Intelligence")
+st.markdown("## Prof. Harsh Belani")
 st.markdown("### 1. Gaurav Ojha (D015)")
 st.markdown("### 2. Gaurav Patil (D017)")
 st.markdown("### 3. Praveen Kumar Loharkar (D027)")
